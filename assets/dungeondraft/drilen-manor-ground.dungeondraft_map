@@ -220,7 +220,7 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 6375.34, 3732.67 )",
+			"camera_position": "Vector2( 6591.34, 578.004 )",
 			"camera_zoom": 1.333333,
 			"guide_position": "null",
 			"trace_image": null,
@@ -324,7 +324,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"[FA] Bridges"
+					"[FA] Curtains"
 				]
 			},
 			"scatter_tags_memory": {
@@ -337,7 +337,7 @@
 				"mode": "tags",
 				"scroll": 0,
 				"selected": [
-					"res://packs/FA30DD03/textures/objects/Structures/Bridges/Train_Bridges/Track_Bridge_Ashen_B1_2x3.webp"
+					"res://packs/FA30DD01/textures/objects/Decor/Curtains/Window_Curtains/Large_Window_Curtains/Large_Window_Curtain_Cloths/Curtain_Large_Cloth_Red_A_3x1.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -349,7 +349,7 @@
 		"format": 3,
 		"width": 35,
 		"height": 35,
-		"next_node_id": "1b8",
+		"next_node_id": "1ba",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -3287,7 +3287,7 @@
 					},
 					{
 						"position": "Vector2( 4556, 2150 )",
-						"rotation": 1.570796,
+						"rotation": -1.570794,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/FA30DD01/textures/objects/Decor/Curtains/Window_Curtains/Large_Window_Curtains/Large_Window_Curtain_Cloths/Curtain_Large_Cloth_Yellow_A_3x1.webp",
@@ -3361,17 +3361,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "80"
-					},
-					{
-						"position": "Vector2( 2897.33, 2159.33 )",
-						"rotation": -1.570796,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/FA30DD02/textures/objects/Lightsources/Lamps/Street_Lamps/Wall_Lamps/Wall_Lamp_Metal_Gray_L2_1x1.webp",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "81"
 					},
 					{
 						"position": "Vector2( 1920, 1536 )",
@@ -5729,6 +5718,17 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "1b7"
+					},
+					{
+						"position": "Vector2( 2863.34, 2175.34 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Curtains/Window_Curtains/Large_Window_Curtains/Large_Window_Curtain_Cloths/Curtain_Large_Cloth_Red_A_3x1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1b9"
 					}
 				],
 				"lights": [
@@ -5791,16 +5791,6 @@
 						"texture": "res://packs/FA30DD02/textures/lights/Candle_Light/Candle_Light_A1.png",
 						"shadows": true,
 						"node_id": "18c"
-					},
-					{
-						"position": "Vector2( 2919.33, 2154 )",
-						"rotation": 0,
-						"range": 5,
-						"intensity": 1,
-						"color": "ffa2642a",
-						"texture": "res://packs/FA30DD02/textures/lights/Candle_Light/Candle_Light_A1.png",
-						"shadows": true,
-						"node_id": "18d"
 					},
 					{
 						"position": "Vector2( 2199.33, 6044.67 )",
