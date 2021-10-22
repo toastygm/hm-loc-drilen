@@ -220,7 +220,7 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 6186.01, 3866 )",
+			"camera_position": "Vector2( 5587.61, 3059.6 )",
 			"camera_zoom": 1.6,
 			"guide_position": "null",
 			"trace_image": null,
@@ -324,7 +324,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"[FA] Bridges"
+					"[FA] Doors"
 				]
 			},
 			"scatter_tags_memory": {
@@ -335,9 +335,9 @@
 			},
 			"object_library_memory": {
 				"mode": "tags",
-				"scroll": 0,
+				"scroll": 391.13111,
 				"selected": [
-					"res://packs/FA30DD03/textures/objects/Structures/Bridges/Train_Bridges/Track_Bridge_Ashen_B2_2x3.webp"
+					"res://packs/FA30DD03/textures/objects/Structures/Doors/Door_Stone_Earthy_B1_1x1.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -356,7 +356,7 @@
 		"format": 3,
 		"width": 35,
 		"height": 35,
-		"next_node_id": "8c0",
+		"next_node_id": "8c5",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -376,7 +376,7 @@
 			"0": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -8631,6 +8631,17 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "8bf"
+					},
+					{
+						"position": "Vector2( 5262.81, 2499.6 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD03/textures/objects/Structures/Doors/Door_Stone_Earthy_B1_1x1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "8c4"
 					}
 				],
 				"lights": [

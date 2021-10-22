@@ -220,7 +220,7 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 2944, 1456 )",
+			"camera_position": "Vector2( 2099.2, 1504 )",
 			"camera_zoom": 1.6,
 			"guide_position": "null",
 			"trace_image": null,
@@ -324,7 +324,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"[FA] Chimneys"
+					"[FA] Doors"
 				]
 			},
 			"scatter_tags_memory": {
@@ -335,9 +335,9 @@
 			},
 			"object_library_memory": {
 				"mode": "tags",
-				"scroll": 0,
+				"scroll": 491,
 				"selected": [
-					"res://packs/FA30DD06/textures/objects/Structures/Roofs/Chimneys/Chimney_Stone_Earthy_D_1x1.webp"
+					"res://packs/FA30DD03/textures/objects/Structures/Doors/Door_Stone_Earthy_B1_1x1.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -349,7 +349,7 @@
 		"format": 3,
 		"width": 24,
 		"height": 12,
-		"next_node_id": "3d",
+		"next_node_id": "3e",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -369,7 +369,7 @@
 			"0": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -1478,6 +1478,17 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "35"
+					},
+					{
+						"position": "Vector2( 913.601, 1988.8 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD03/textures/objects/Structures/Doors/Door_Stone_Earthy_B1_1x1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "3d"
 					}
 				],
 				"lights": [
