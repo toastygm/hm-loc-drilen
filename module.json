@@ -2,7 +2,7 @@
   "name": "hm-loc-drilen",
   "title": "Drilen Manor",
   "description": "A small but wealthy manor located between the Chyle forest and the Omin river in Fethael Hundred.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
   "bugs": "https://github.com/toastygm/hm-loc-drilen/issues",
