@@ -1,0 +1,130 @@
+{
+  "name": "The Tower",
+  "pages": [
+    {
+      "name": "[H1] The Storeroom and Armory",
+      "type": "text",
+      "text": {
+        "content": "<p>Here is where Sir Eadwin keeps the manor’s daily necessities. The western end holds the militia’s weapons and salted rations. Sir Wogon is responsible for the militia. He rotates the ration stores annually.</p>",
+        "format": 1
+      },
+      "_id": "J8d0VwKZGe75UtTA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!YTJEZZrrEsSewGmz.J8d0VwKZGe75UtTA"
+    },
+    {
+      "name": "[H2] The Heir’s Chamber",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Wogon and his family sleep in this room. His tapestry shows a hunting scene.</p>\n<ul>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.ddqIAOh12otCpaMv]{Sir Worgan Lournay}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.GV7iK6V5MIdhOFhp]{Lady Lirain Lournay}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.nHPMzryXaa0mNjne]{Gesel Lournay}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.jKjeDr8VYmr3mQXW]{Habar Lournay}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "CSJG0FpbYg2GX74P",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!YTJEZZrrEsSewGmz.CSJG0FpbYg2GX74P"
+    },
+    {
+      "name": "[H3] The Lord’s Chambers",
+      "type": "text",
+      "text": {
+        "content": "<p>These belong to Sir Eadwin, his wife, and their servants.</p>\n<ul>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.yw3QFuBkBMBs2ttU]{Sir Eadwin Lournay, Lord of Drilen}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.WmH1ONCYA1XOTAwR]{Lady Tommasina Lournay, Lady of the Manor}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.Q9XTqR7Zfr8C3okw]{Hanis Haunty, Squire}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.qB5e9FQcoVT8il95]{Selshen Loyril, Groom}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.gaghKsNcirpLZFKw]{Uldin Enten, Lady Tommasina's maid}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.L2DyaNdb0C6EOlff]{Sildain Kleve, Manservant}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.W5B8IenVNrlnvczv]{Shinaer Oralis}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "rwBcTXLtIRnOvvEu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!YTJEZZrrEsSewGmz.rwBcTXLtIRnOvvEu"
+    },
+    {
+      "name": "[H4] Roof",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Tommasina uses the roof as a solar during nice weather. The ladder leads to a lookout above the roof.</p>",
+        "format": 1
+      },
+      "_id": "7mHJi2acFBlbyuHj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!YTJEZZrrEsSewGmz.7mHJi2acFBlbyuHj"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201780259,
+    "modifiedTime": 1659201780259,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "YTJEZZrrEsSewGmz",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!YTJEZZrrEsSewGmz"
+}

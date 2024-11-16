@@ -1,0 +1,598 @@
+{
+  "name": "The Manor Household",
+  "pages": [
+    {
+      "name": "Burevis Haral",
+      "type": "text",
+      "text": {
+        "content": "<p>Burevis (male, 40) is called the Bull, both for his size and his quick temper. He is related to the Hundred’s traveling peddler (Getha, @UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.EyPpa7vg1UmII8nd]{[27] Mercantyler Varybis Haral}) and was a caravan guard for years before finding employment in Drilen.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "eRk8uUYfiUq1hKno",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.eRk8uUYfiUq1hKno"
+    },
+    {
+      "name": "Chargin Ailt, Bonded Metalsmith",
+      "type": "text",
+      "text": {
+        "content": "<p>Chargin (male, age 39) is related to the litigant in Hundholt. He thinks Jorisi Ailt [Hundholt @UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.pXdcvtxUrLF0jYnd]{[13] Litigant Jorisi Ailt}] is a stuck up cow and left Hundholt to get away from her. He is so distantly related to the alewife, he does not bother to call her kin, although he would assist her if she asked. His eldest son (he has four ranging in age from 4 to 14) helps him in the smithy. His wife works in the kitchens with Krod Panda.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "sBGQdtq0tBigoaxV",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.sBGQdtq0tBigoaxV"
+    },
+    {
+      "name": "Gesel Lournay",
+      "type": "text",
+      "text": {
+        "content": "<p>Gesel (age 14) is Sir Eadwin’s youngest grand-daughter and will soon go to Bidow as a lady in waiting.</p>",
+        "format": 1
+      },
+      "_id": "nHPMzryXaa0mNjne",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.nHPMzryXaa0mNjne"
+    },
+    {
+      "name": "Habar Lournay",
+      "type": "text",
+      "text": {
+        "content": "<p>Habar (age 12), is Sir Eadwin’s youngest grandson. He doesn’t want to leave home to start training as a squire and is spoiled by his mother.</p>",
+        "format": 1
+      },
+      "_id": "jKjeDr8VYmr3mQXW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.jKjeDr8VYmr3mQXW"
+    },
+    {
+      "name": "Hanis Haunty, Squire",
+      "type": "text",
+      "text": {
+        "content": "<p>Hanis (age 18) is Sir Eadwin’s squire, son of Sir Falstan Haunty, Lord of Ominstru. Hanis stands in his father’s shadow in every way. He is slender, quiet, and timid. The other residents call him “the Mouse.” Sir Eadwin despairs about the boy and has arranged a place for him with the Holy Oak College of Heralds in Tashal.</p>",
+        "format": 1
+      },
+      "_id": "Q9XTqR7Zfr8C3okw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.Q9XTqR7Zfr8C3okw"
+    },
+    {
+      "name": "Ketta Charlirien, Huntsman",
+      "type": "text",
+      "text": {
+        "content": "<p>Ketta (male, 36) is a dashing, middle aged knight. He has hopes of landing a wealthy widow at one of the fairs. He cuts a swath at regional jousts and can be quite the courtier. Although he has the skills, and indeed has been trained as a knight, he lacks the funds for a knight’s upkeep and hopes that Sir Eadwin will leave him the money as a bequest.</p>",
+        "format": 1
+      },
+      "_id": "oOMX7l1ZAfNwD5uC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.oOMX7l1ZAfNwD5uC"
+    },
+    {
+      "name": "Kirian Ailt, Alewife",
+      "type": "text",
+      "text": {
+        "content": "<p>Kirian (female, spinster, age 36) is completely in love with Milan but, after sharing his bed for almost 20 years without issue, is convinced that she is barren.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "mcjWj9Q16MYe0GCu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.mcjWj9Q16MYe0GCu"
+    },
+    {
+      "name": "Krod Haral, Baker",
+      "type": "text",
+      "text": {
+        "content": "<p>Krod (male, age 44) is ugly as sin but has a great sense of humor. He is constantly teasing Milan about taking Kirian away from the reluctant cook.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "qVBTkwg4MQfJ7wHE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.qVBTkwg4MQfJ7wHE"
+    },
+    {
+      "name": "Lady Lirain Lournay",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Lirain (age 40), nee Ieald, Sir Worgan’s wife, carps about being at her mother-in-law’s beck and call but she is Lady Tommasina’s closest friend.</p>",
+        "format": 1
+      },
+      "_id": "GV7iK6V5MIdhOFhp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.GV7iK6V5MIdhOFhp"
+    },
+    {
+      "name": "Lady Tommasina Lournay, Lady of the Manor",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Tommasina, nee Kressenta, is 67 years old and still beautiful, witty, and charming. Lady Tommasina treats every child of the clan as if he or she were her own. She often requires younger daughters of the clan to wait upon her before they leave to become ladies-in- waiting at other, grander houses.</p>",
+        "format": 1
+      },
+      "_id": "WmH1ONCYA1XOTAwR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.WmH1ONCYA1XOTAwR"
+    },
+    {
+      "name": "Latin Berma",
+      "type": "text",
+      "text": {
+        "content": "<p>Latin (male, 46) is the eldest and the leader. He is related to the innkeeper in Getha [Getha 35].</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "zJOzYjEn0i74gsRj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.zJOzYjEn0i74gsRj"
+    },
+    {
+      "name": "Men-at-arms",
+      "type": "text",
+      "text": {
+        "content": "<p>The manor employs three men at arms. Each is armed as light infantry and takes turns guarding the bailey gate. When called upon for fairs and tournaments, these soldiers also act as horseholders and bodyguards.</p>\n<h3>Latin Berma</h3>\n<p>Latin (male, 46) is the eldest and the leader. He is related to the innkeeper in Getha [Getha @UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.5mGhgPAr0boqgPNB]{[35] The Leaky Bucket}].</p>\n<h3>Meren Berma</h3>\n<p>Meren (male, 44) is Latin's distant relative and is from the Denwald branch of the clan.</p>\n<h3>Burevis Haral</h3>\n<p>Burevis (male, 40) is called the Bull, both for his size and his quick temper. He is related to the Hundred’s traveling peddler [Getha @UUID[JournalEntry.ovVLKx3hZhZFZq2J.JournalEntryPage.EyPpa7vg1UmII8nd]{[27] Mercantyler Varybis Haral}] and was a caravan guard for years before finding employment in Drilen.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "NbTqEFUJ3SOY0m3Z",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.NbTqEFUJ3SOY0m3Z"
+    },
+    {
+      "name": "Meren Berma",
+      "type": "text",
+      "text": {
+        "content": "<p>Meren (male, 44) is Latin's distant relative and is from the Denwald branch of the clan.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "PHpqLS41hSNiWHlL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.PHpqLS41hSNiWHlL"
+    },
+    {
+      "name": "Milan Astal, Cook",
+      "type": "text",
+      "text": {
+        "content": "<p>Milan (male, freeman, age 36) is the cook. He has been enjoying Kirian’s favors for years but has never bothered to ask her to marry him.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "0F395OkKzHlkaL3c",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.0F395OkKzHlkaL3c"
+    },
+    {
+      "name": "Selshen Loyril, Groom",
+      "type": "text",
+      "text": {
+        "content": "<p>Selshen (male, age 20) is Sir Eadwin’s groom and the closest person Drilen (or indeed any manor west of Haksytn) has to a trained ostler. Selshen is very good with horses but refuses to work with mules.</p>",
+        "format": 1
+      },
+      "_id": "qB5e9FQcoVT8il95",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.qB5e9FQcoVT8il95"
+    },
+    {
+      "name": "Sherin Asane, Chamberlain",
+      "type": "text",
+      "text": {
+        "content": "<p>Sherin (male, 53) is a member of a minor, non-landholding noble family of eastern Nephshire. His capacity for remembering facts and figures is astonishing.</p>",
+        "format": 1
+      },
+      "_id": "u9fOaCly0jGwrewm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.u9fOaCly0jGwrewm"
+    },
+    {
+      "name": "Shinaer Oralis",
+      "type": "text",
+      "text": {
+        "content": "<p>Shinaer (male, age 46) cares for the kennels. When he is not working with the dogs, he is supposed to be busy with repairs and cleaning but always seems to find time to sleep in the store room. Sinaer took a bribe from his cousin Koron (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.CL9ChUNLB5VAi7x7]{[17] Cottar Koron Oralis}) to leave the kennel’s latch undone so that Tordai could escape.</p>",
+        "format": 1
+      },
+      "_id": "W5B8IenVNrlnvczv",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.W5B8IenVNrlnvczv"
+    },
+    {
+      "name": "Sildain Kleve, Manservant",
+      "type": "text",
+      "text": {
+        "content": "<p>Sildain (age 59) is Sir Eadwin’s man servant, a position he has held since he was 15. Sildain is considered the manor’s historian and can even read.</p>",
+        "format": 1
+      },
+      "_id": "L2DyaNdb0C6EOlff",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.L2DyaNdb0C6EOlff"
+    },
+    {
+      "name": "Sir Eadwin Lournay, Lord of Drilen",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Eadwin is a 65 year old, grandfatherly knight of the realm. He is the lord of Drilen and clan head of the Lournay. He has worked for his entire life to increase the land and the prestige for his family. They have served the Indama clan as knights and soldiers for generations and Sir Eadwin feels that the best path is to continue to do so.</p>\n<p>Sir Eadwin was born in 655 to the junior branch of the Lournay clan. Eadwin squired at Getha before receiving a position in the Royal High Guard. As a young man, Sir Eadwin rode in King Torastra’s bloody wars and later guarded King Miginath’s royal progress. He was raising a family in Tashal when Fate intervened.</p>\n<p>While Sir Eadwin served the King, his cousin Aelmere was lost while hunting in the Chyle Forest. Aelmere was the Lournay heir and bailiff of Emerule. Eadwin was recalled from royal service and became lord of Drilen upon the clanhead’s death</p>\n<p>Eadwin’s first act was to appoint his brother Marby as bailiff of Emerule. Eadwin has been a good lord. His son and heir Worgan administers the manor while Sir Eadwin looks out for the family's interests in Getha, Hundholt, and Tashal. He is embarrassed by the banditry of a fellow noble but is more humiliated by his inability to bring the bandits to justice. The appearance of Gladyk Onaret and his band of outlaws (q.v., Getha Keep 3-2 and Emerule Settlement Overview, Current Events) has given him the excuse to request assistance from the Baron without completely admitting his shortcomings.</p>\n<p>Sir Eadwin is of medium height and build. Since his lack of size impaired his performance as a jouster, he devoted his energies and great skill to becoming a consummate diplomat, warrior, and hunter. He wishes that Gladyk had asked him for guidance before turning to outlawry, but now he would deliver the bandit chief to his liege, the Baron, in shackles for the ultimate punishment.</p>",
+        "format": 1
+      },
+      "_id": "yw3QFuBkBMBs2ttU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.yw3QFuBkBMBs2ttU"
+    },
+    {
+      "name": "Sir Worgan Lournay",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Eadwin’s eldest son. At 43, he has seen much of Melderyn as a tournament knight and caravan guard. He isn’t in a great hurry to inherit the manor, being happy to attend the odd regional tournament as a marshal. His daughter Pelycia is a lady-in-waiting at Getha keep [Getha @UUID[JournalEntry.4NR7FTcMl5114Gt8.JournalEntryPage.Ke5jirPUyhYnvJ6E]{Lady Pelycia Lournay (Lady in Waiting)}] and is the joy of his wife’s life.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "ddqIAOh12otCpaMv",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.ddqIAOh12otCpaMv"
+    },
+    {
+      "name": "Uldin Enten, Lady Tommasina's maid",
+      "type": "text",
+      "text": {
+        "content": "<p>Uldin (age 32) was widowed almost 10 years ago and is the Beadle’s sister.</p>",
+        "format": 1
+      },
+      "_id": "gaghKsNcirpLZFKw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mwaaTvFXkPwUKmYo.gaghKsNcirpLZFKw"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201780288,
+    "modifiedTime": 1659201780288,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "mwaaTvFXkPwUKmYo",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!mwaaTvFXkPwUKmYo"
+}

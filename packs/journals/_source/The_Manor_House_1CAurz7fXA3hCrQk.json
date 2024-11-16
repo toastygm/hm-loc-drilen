@@ -1,0 +1,320 @@
+{
+  "name": "The Manor House",
+  "pages": [
+    {
+      "name": "[A1] The Gate",
+      "type": "text",
+      "text": {
+        "content": "<p>One of the lord’s men at arms stands here guarding the gate during the day but the gate is closed at night. The drawbridge hasn’t been raised in years.</p>",
+        "format": 1
+      },
+      "_id": "FziRvOleBYi0EdDf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.FziRvOleBYi0EdDf"
+    },
+    {
+      "name": "[B] The Kennels and Mews",
+      "type": "text",
+      "text": {
+        "content": "<p>One of Ketta Charlirien’s (see @UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.oOMX7l1ZAfNwD5uC]{Ketta Charlirien, Huntsman}) duties is to care for Sir Eadwin’s falcons. Ketta has turned the Beadle’s son, Chelbai (see @UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.MTnm4DAFmLUcpKHH]{[1] Cottar (Beadle) Merkan Enten}), into a decent falconer. If the boy’s family can spare him from the fields, Ketta plans to train him to take over the mews permanently.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Dn6ovAiT1shRZcO0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.Dn6ovAiT1shRZcO0"
+    },
+    {
+      "name": "[C] The Tithe Barn",
+      "type": "text",
+      "text": {
+        "content": "<p>Taxes, usually paid in kind, are stored here. Only Sir Eadwin and the Chamberlain, Sherin Asane, have keys to this building.</p>",
+        "format": 1
+      },
+      "_id": "Sw8mYcs4anjhQ1Op",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.Sw8mYcs4anjhQ1Op"
+    },
+    {
+      "name": "[D] The Forge",
+      "type": "text",
+      "text": {
+        "content": "<p>Chargin Ailt (@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.sBGQdtq0tBigoaxV]{Chargin Ailt, Bonded Metalsmith}) is the manor’s only bonded craftsman. His family is wealthy enough that he could purchase a franchise elsewhere but he loves Fethael and would rather work in Drilen than leave for parts unkown.</p>",
+        "format": 1
+      },
+      "_id": "FQSDFZlgbbpkf06J",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.FQSDFZlgbbpkf06J"
+    },
+    {
+      "name": "[E1] The Stable",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Wogan’s warhorse is here, beside the family’s four hunters and Lady Tommasina’s palfrey. Sir Eadwin is proud of his horses and is quick to criticize the groom, Selshen Loyril (@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.qB5e9FQcoVT8il95]{Selshen Loyril, Groom}), for any problems.</p>",
+        "format": 1
+      },
+      "_id": "EAWJKl7FQJMaavE3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.EAWJKl7FQJMaavE3"
+    },
+    {
+      "name": "[E2] The Smith’s Chamber",
+      "type": "text",
+      "text": {
+        "content": "<p>Chargen Ailt (@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.sBGQdtq0tBigoaxV]{Chargin Ailt, Bonded Metalsmith}) and his family live here. Chargen’s forge (@UUID[JournalEntry.1CAurz7fXA3hCrQk.JournalEntryPage.FQSDFZlgbbpkf06J]{[D] The Forge}) is the only smithy in the area and does a brisk business.</p>",
+        "format": 1
+      },
+      "_id": "6Wwp2a4sn6eytQON",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.6Wwp2a4sn6eytQON"
+    },
+    {
+      "name": "[E3] The Brewhouse",
+      "type": "text",
+      "text": {
+        "content": "<p>This is where Kirian (@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.mcjWj9Q16MYe0GCu]{Kirian Ailt, Alewife}) works. Whenever she has a batch ready for consumption, she hangs a bunch of broom straw over her doorway.</p>",
+        "format": 1
+      },
+      "_id": "ZM4qERpIz9ktwltp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.ZM4qERpIz9ktwltp"
+    },
+    {
+      "name": "[E4] The Latrine",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "V3GxM8lZJjsEaGLp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.V3GxM8lZJjsEaGLp"
+    },
+    {
+      "name": "[F] The Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>The kitchen staff sleeps here, leaving the Great Hall to the others. In addition to her brewing, Kirian Ailt cares for the manor’s ducks and chickens in the yard behind the kitchen.</p>\n<ul>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.mcjWj9Q16MYe0GCu]{Kirian Ailt, Alewife}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.qVBTkwg4MQfJ7wHE]{Krod Haral, Baker}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.0F395OkKzHlkaL3c]{Milan Astal, Cook}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "JGewpT7ZS7viJAGK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.JGewpT7ZS7viJAGK"
+    },
+    {
+      "name": "[G] The Great Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The manor house’s staff and servants live and eat here. The general rule is that the higher ranking servants sleep closer to the fireplace. Ketta, the huntsman, proudly takes his place directly in front of the fire every evening. This room is a lively place, full of sounds and smells of life. Sir Eadwin usually takes his meals here with his wife and children. The tapestry at the eastern end of the hall shows the Baron of Getha granting the lands of Drilen, Emerule, and Ominstru to the Lournay clan. The tapestry on the western end depicts Larani and her court.</p>\n<ul>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.oOMX7l1ZAfNwD5uC]{Ketta Charlirien, Huntsman}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.u9fOaCly0jGwrewm]{Sherin Asane, Chamberlain}</li>\n</ul>\n<h2>Men-at-arms</h2>\n<p>The manor employs three men at arms. Each is armed as light infantry and takes turns guarding the bailey gate. When called upon for fairs and tournaments, these soldiers also act as horseholders and bodyguards.</p>\n<ul>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.zJOzYjEn0i74gsRj]{Latin Berma}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.PHpqLS41hSNiWHlL]{Meren Berma}</li>\n<li>@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.eRk8uUYfiUq1hKno]{Burevis Haral}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "emNH6DnSl3ASbi0f",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.emNH6DnSl3ASbi0f"
+    },
+    {
+      "name": "[H] The Tower",
+      "type": "text",
+      "text": {
+        "content": "<p>The tower consists of four levels and a lookout.</p>\n<ul>\n<li>@UUID[JournalEntry.YTJEZZrrEsSewGmz.JournalEntryPage.J8d0VwKZGe75UtTA]{[H1] The Storeroom and Armory}</li>\n<li>@UUID[JournalEntry.YTJEZZrrEsSewGmz.JournalEntryPage.CSJG0FpbYg2GX74P]{[H2] The Heir’s Chamber}</li>\n<li>@UUID[JournalEntry.YTJEZZrrEsSewGmz.JournalEntryPage.rwBcTXLtIRnOvvEu]{[H3] The Lord’s Chambers}</li>\n<li>@UUID[JournalEntry.YTJEZZrrEsSewGmz.JournalEntryPage.7mHJi2acFBlbyuHj]{[H4] Roof}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "WK6HWNWUOLIeGsPg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!1CAurz7fXA3hCrQk.WK6HWNWUOLIeGsPg"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201780256,
+    "modifiedTime": 1659201780256,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "1CAurz7fXA3hCrQk",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!1CAurz7fXA3hCrQk"
+}

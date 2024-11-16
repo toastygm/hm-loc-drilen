@@ -1,0 +1,672 @@
+{
+  "name": "The Village",
+  "pages": [
+    {
+      "name": "[1] Cottar (Beadle) Merkan Enten",
+      "type": "text",
+      "text": {
+        "content": "<p>Merkan tried to drive a bear away from his family’s sheep but paid a heavy price. Grievously wounded by the bear’s claws, he has lain in a deep sleep for the entire winter. Now, as spring comes to the village, his mother Artirgen [16] has begun trying any old wives’ tale in the hope that she can make Merkan wake.</p>\n<p>While he lays comatose, his wife and four children struggle to do the spring planting. A favorite in the village, the family has received some charity but, if Sir Eadwin gives the beadle’s office to another, Merkan’s family will not be able to pay their fees and might lose their land.</p>",
+        "format": 1
+      },
+      "_id": "MTnm4DAFmLUcpKHH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.MTnm4DAFmLUcpKHH"
+    },
+    {
+      "name": "[2] Miller Mubel Etine",
+      "type": "text",
+      "text": {
+        "content": "<p>Size: 3 Quality: ★★ Prices: Avg</p>\n<p>People often point out the miller Mubel as a cheerful man and this is not a compliment. The man, they will tell you without lowering their voices, is an idiot. His wife is running his business into the ground and his son is a criminal, but Mubel’s smile has never slipped from his face.</p>\n<p>Late last winter, Mubel’s son Tordai was arrested by Sir Udet of Denwald and charged with raping one of the girls of the village. Sir Eadwin had arranged for the boy to be brought to Drilen and asked the Miller to pay a token fine to the girl’s family.</p>\n<p>To the surprise of one and all, Mubel declined and shrugged the matter off. Sir Eadwin, publicly embarrassed, sentenced Tordai to be flogged. Before the sentence could be carried out, the boy escaped and set fire to the mill. He is now an outlaw in the Chyle Forest, south of the manor.</p>\n<p>Since the mill is out of commission, Sir Eadwin has had to allow the peasants to purchase quern licenses to grind their own grain. The loss of production capacity has hurt Sir Eadwin’s purse the hardest, as the mill also ground flour for farmers in Emerule. Sir Eadwin has given Mubel half of his annual fee back to help rebuild the mill as soon as possible.</p>",
+        "format": 1
+      },
+      "_id": "UKMWxxgNOMarX6FC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.UKMWxxgNOMarX6FC"
+    },
+    {
+      "name": "[3] Half-Villein Deril Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Deril and her husband Nils are the village idiots. Strikingly good-looking, both of them are also lazy and not a little thick between the ears. They are popular throughout the village for their sense of humor.</p>",
+        "format": 1
+      },
+      "_id": "oiUQkg3TKWGuaP9L",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.oiUQkg3TKWGuaP9L"
+    },
+    {
+      "name": "[4] Yeoman Tireal the Harper",
+      "type": "text",
+      "text": {
+        "content": "<p>Late last winter, a man arrived in the village with two followers. He said that his name was Tireal and introduced his companions as Eäs, his cook, and Syriam, his bodyguard. After a brief interview with Sir Eadwin, he was granted a house and some land, leasing the fields to Koron Oralis (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.CL9ChUNLB5VAi7x7]{[17] Cottar Koron Oralis}) to farm while he whiles away his time practicing with a lute. He tells people that he is a wandering harper, searching for inspiration in the quiet village. Few believe him because Tireal can’t sing, Eäs is a large, powerful man, and Syriam is a petite woman. No one has had the courage to question his story, however, since Syriam attends militia drill and is competent with a bow.</p>\n<p>In truth, Tireal is the proverbial prodigal son. He chose to take his inheritance (his father is the bailiff of Gratima in Navintas Hundred) and see the world. After living hard and fast in Tashal, Burzyn, and Thay for a few years, Tireal exhausted his funds but was unwilling to return home to his disapproving parents. He wrote to his favorite aunt Tommasina and she invited him to live in Drilen.</p>\n<p>Lady Tommasina is actually his great aunt on his father’s side (the lord of Sycound is her grandson and Tireal’s uncle) but she felt that she should honor her family bond with the young wastrel. On her instructions, he gathered up his few goods and came to Drilen. Lady Tommasina arranged for Tireal to be granted a yeoman’s fee for a modest consideration and the lad became the local eccentric in the small community. He is still a bit of a wastrel and a rake but, since Drilen is small and out of the way, there is little trouble for him to get into.</p>\n<p>As far as the other villagers are concerned, Tireal’s companions are as enigmatic as their master. Eäs is actually a Savoryan Mavari (apprentice Shek P’var,) hiding from his master after a misunderstanding. Syriam was a barmaid in Thay that found young Tireal face down in a gutter and took pity on him. He invited her to live with him in Drilen, but she agreed only on the condition that she wouldn’t have to cook. Hence Eäs pretends to be the cook and Syriam plays Tireal’s protector. Tireal hopes to hire a real cook soon as Eäs can only make burnt porridge. He has approached Calan Gwynten (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.YFGlZNgKjsYj3Gur]{[5] Cottar Calan Gwynten}) with the job offer.</p>",
+        "format": 1
+      },
+      "_id": "2p1NiDAEoGWT3DXw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.2p1NiDAEoGWT3DXw"
+    },
+    {
+      "name": "[5] Cottar Calan Gwynten",
+      "type": "text",
+      "text": {
+        "content": "<p>Calan and her husband Sciorda came to the village two years ago after surviving the horrors of a gargûn swarm. Since coming to the village, they have been active in the militia and Sciorda often helps with the lord’s hunts.</p>",
+        "format": 1
+      },
+      "_id": "YFGlZNgKjsYj3Gur",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.YFGlZNgKjsYj3Gur"
+    },
+    {
+      "name": "[6] Half-Villein Sirnan Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p>This slim, short woman has the miraculous ability to bring gloom and despair into any room she enters. Sirnan is thankful that Peoni has blessed her with a handsome husband and four rambunctious sons, but she has little time for men that do not do what she tells them. She treats all males like overgrown children who make demands on her precious time and energy.</p>",
+        "format": 1
+      },
+      "_id": "ZB1eCoH8ADJ9XkPz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.ZB1eCoH8ADJ9XkPz"
+    },
+    {
+      "name": "[7] Cottar Senis Awensel",
+      "type": "text",
+      "text": {
+        "content": "<p>Senis is as content as any peasant can be. His wife loves him, his four children (2 girls and 2 boys) are hale and helpful, and his lands are productive. Standing a lean 6 ft. tall, he often finds employment as a beater in the Lord’s hunts but is of little use in a fight.</p>",
+        "format": 1
+      },
+      "_id": "q6hfs7UI6H0PRQ93",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.q6hfs7UI6H0PRQ93"
+    },
+    {
+      "name": "[8] Cottar (Reeve) Landar Haral",
+      "type": "text",
+      "text": {
+        "content": "<p>Landar is dying slowly and is leaving his clan in turmoil. He has resisted his children’s pleas to name an heir and the reeve’s position, if not the future of the clan, hangs in the balance. If a successor is not named, the family is likely to split into several factions, each quarreling and scheming for power.</p>",
+        "format": 1
+      },
+      "_id": "imNtIvlW9AGUSdSq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.imNtIvlW9AGUSdSq"
+    },
+    {
+      "name": "[9] Villein Ornyn Haral",
+      "type": "text",
+      "text": {
+        "content": "<p>Ornyn is one of the wealthiest peasants in the village. He is called “Old Ornyn” to differentiate him from his cousin and namesake (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.9DnznmI8ytQS8LA2]{[21] Villein Ornyn Haral}). An open-handed man, he often makes extravagant loans to poorer peasants in exchange for light labor in his house or fields.</p>",
+        "format": 1
+      },
+      "_id": "6NKHtx7HY63Rx8Qg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.6NKHtx7HY63Rx8Qg"
+    },
+    {
+      "name": "[10] Villein Karis Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Karis is a happy old man. His children are all grown, so now he and his wife sit around their cottage and play with the village children while others work in the fields. Karis is the clan head of the Nelts and is a very influential old codger.</p>",
+        "format": 1
+      },
+      "_id": "xTz53oP3Vkf5HZQh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.xTz53oP3Vkf5HZQh"
+    },
+    {
+      "name": "[11] Villein Nazarant Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p>Nazarant is scheming to become the Reeve, a position that he sees as a chance for graft and power. He views the Chamberlain (@UUID[JournalEntry.mwaaTvFXkPwUKmYo.JournalEntryPage.u9fOaCly0jGwrewm]{Sherin Asane, Chamberlain}) as his path to power and sees to it that Sherin is well supplied with the sweets and the meads that old man loves.</p>",
+        "format": 1
+      },
+      "_id": "tsuVmGIrCIzZRU1o",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.tsuVmGIrCIzZRU1o"
+    },
+    {
+      "name": "[12] Villein Seskal Haral",
+      "type": "text",
+      "text": {
+        "content": "<p>Seskal is Oryn’s (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.6NKHtx7HY63Rx8Qg]{[9] Villein Ornyn Haral}) son and Karis’ (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.xTz53oP3Vkf5HZQh]{[10] Villein Karis Nelt}) grandson. He, like his father, is generous to a fault. A busy, middle-aged man, he devotes a lot of his free time to keeping contact with clan members that have left the village. Built like an oak stump, he is the leader of the village militia and is extremely skilled with a quarterstaff.</p>",
+        "format": 1
+      },
+      "_id": "1SgWROsf33PjYGaY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.1SgWROsf33PjYGaY"
+    },
+    {
+      "name": "[13] Cottar (Woodward) Sereth Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>A trapper by trade, his family helps farm and works in the household of Ornyn Haral (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.6NKHtx7HY63Rx8Qg]{[9] Villein Ornyn Haral}). His daughter Irla (age 15) is carrying on an affair with Ithar Dyren (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.7sFHr091g2hMcpBK]{[22] Half-Villein Ithar Dyren}). Her father would kill them both if he ever found out. Since Ithar has promised to leave his wife, Irla would like to marry the big woodsman and move away.</p>",
+        "format": 1
+      },
+      "_id": "yjHKLvouqgFRPrrA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.yjHKLvouqgFRPrrA"
+    },
+    {
+      "name": "[14] Half-Villein Daergan Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>The morning the gods handed out beauty, Daergan slept in. Both she and her husband are often unfavorably compared with the south end of a north-bound mule. Her looks aside, she is a tall (70 inches), large (14 stone) woman. Her four children have inherited both her looks and her size. She likes attending militia training but the others avoid her, as she never pulls her blows.</p>",
+        "format": 1
+      },
+      "_id": "YdWISrYPcxkRiuyp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.YdWISrYPcxkRiuyp"
+    },
+    {
+      "name": "[15] Cottar (Herder) Gulis the Scarecrow",
+      "type": "text",
+      "text": {
+        "content": "<p>Scarecrow Gulis is tall, thin and scatter-brained. His daughter is the village goose girl. After the miller’s son abused her, Gulis was ashamed that he wished harm to come to the boy. He is a dedicated Peonian and, now that Tordai has left the manor, Gulis is trying to rebuild peace in his life. Many in the village admire his quiet strength and piety.</p>",
+        "format": 1
+      },
+      "_id": "Q8xNY5EdDhb33WOG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.Q8xNY5EdDhb33WOG"
+    },
+    {
+      "name": "[16] Cottar Artirgen Enten",
+      "type": "text",
+      "text": {
+        "content": "<p>Artirgen prays constantly to Peoni but her son Merkan (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.MTnm4DAFmLUcpKHH]{[1] Cottar (Beadle) Merkan Enten}) still lies in a coma. She has beseeched the Ebasethe for remedies and medicines to save her son but healing Merkan’s hurts are beyond Brother Crarond’s skills. The old lady’s grief has driven her near madness and the Ebasethe is sure to feel her wrath should Merkan die.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "SvsuoJoTHpd1PPvy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.SvsuoJoTHpd1PPvy"
+    },
+    {
+      "name": "[17] Cottar Koron Oralis",
+      "type": "text",
+      "text": {
+        "content": "<p>Koron (23) is a man who could be successful as a farmer but prefers to be a criminal instead. He works hard on his farm and now works Tireal’s land (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.2p1NiDAEoGWT3DXw]{[4] Yeoman Tireal the Harper}) as well. Dispite his material success, Koron loves to feel superior to others and nothing thrills him more than seeing a weaker person beg him for mercy. He sates this thrill as Tordai’s (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.UKMWxxgNOMarX6FC]{[2] Miller Mubel Etine}) accomplice. The pair often creep through the forest at night, sneaking into their neighbor’s barns and stealing whatever they thought valuable. Since the local peasants are not a wealthy lot, their loot is usually measured in tools or pelts that the pair resold in Hyzevel or Jenkald.</p>\n<p>Although Koron is a grown man, Tordai was the undisputed leader. The two made an unusual pair of thugs but Koron enjoyed the excitement of beating up others and taking what he wanted. A thorough-going sociopath, he helped Tordai rape the girl in Denwald. In fact, Koron suggested the idea as a way to divert the young arsonist’s lust away from his wife.</p>\n<p>Many of the villagers know that Koron is a bad lot but choose to ignore or avoid him rather than start a feud. His wife, having been beaten down since their wedding night, is happiest when Koron is off bothering someone else.</p>",
+        "format": 1
+      },
+      "_id": "CL9ChUNLB5VAi7x7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.CL9ChUNLB5VAi7x7"
+    },
+    {
+      "name": "[18] Half-Villein Irdar Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>The other villagers count their fingers after shaking hands with Irdar. A tall, good looking, and smooth-talking man, people leave his presence with the nagging feeling that they’ve been taken advantage of. His wife is a completely gullible tart who is trying hard to have children, sometimes practicing with her neighbors.</p>",
+        "format": 1
+      },
+      "_id": "chK72BxqqxYgMfNb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.chK72BxqqxYgMfNb"
+    },
+    {
+      "name": "[19] Woodcrafter Bredan Darion",
+      "type": "text",
+      "text": {
+        "content": "<p>Size: 3 Quality: ★★★ Prices: Avg</p>\n<p>Bredan is a joiner. He makes furniture and boxes. His youngest son is a soldier at Getha Keep [Getha 0-4c]. He is popular in the village but is known to be a bit scatterbrained.</p>",
+        "format": 1
+      },
+      "_id": "nmPslwcjAJ32ww6V",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.nmPslwcjAJ32ww6V"
+    },
+    {
+      "name": "[20] Half-Villein Pulinla Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p>Pulinla is attractive, intelligent, and rich. She has charmed everyone in the village, including Sir Eadwin. She and her husband have set wolf traps, pits with stakes at the bottom, around the pastures and fallow fields by license from the lord. The bounties they collect from the wolf pelts, some 80d so far, are saved under a floorboard in their bedroom.</p>",
+        "format": 1
+      },
+      "_id": "qkndbkFulTGHtokT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.qkndbkFulTGHtokT"
+    },
+    {
+      "name": "[21] Villein Ornyn Haral",
+      "type": "text",
+      "text": {
+        "content": "<p>Young Ornyn is a hard working young man, eager to make his way up in the world and not afraid to call on family connections to help him on his way. He is called “Young Ornyn” to differentiate him from his cousin (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.6NKHtx7HY63Rx8Qg]{[9] Villein Ornyn Haral}).</p>",
+        "format": 1
+      },
+      "_id": "9DnznmI8ytQS8LA2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.9DnznmI8ytQS8LA2"
+    },
+    {
+      "name": "[22] Half-Villein Ithar Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p>Ithar (age 19) is a poacher. A large, active man, he intimidates other people easily despite his youth. He and his wife are constantly bickering. After they have a fight, he usually goes looking for solace in Sereth Loyril’s house (@UUID[JournalEntry.wE8mC9mXUR4nbueT.JournalEntryPage.yjHKLvouqgFRPrrA]{[13] Cottar (Woodward) Sereth Loyril}).</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "7sFHr091g2hMcpBK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.7sFHr091g2hMcpBK"
+    },
+    {
+      "name": "[23] Chapel of Peoni",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Priest:</strong> Father Crarond (Ebasethe)</p>\n<p>Crarond is the Ebasethe (priest) of the manor’s Peonian chapel. He also ministers and preaches in Hakstyn and Jenkald as well. He is always looking for donations and is apt to accost prospective donors. Even though he is as big and burly as any of the knights in the Hundred, he refrains from physical violence of any sort. He prefers riddle contests to best opponents that fail to be swayed by his glib tongue.</p>",
+        "format": 1
+      },
+      "_id": "Pv7J4Klp6jcDgrKw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.Pv7J4Klp6jcDgrKw"
+    },
+    {
+      "name": "[24] Charcoaler Husanë Asaka",
+      "type": "text",
+      "text": {
+        "content": "<p>Size: 2 Quality: ★★ Prices: Avg</p>\n<p>Husanë is stooped and weather worn, as if life has washed away any humor and vitality he might have had. His business depends on the weather and his drinking. He has seen signs of bandits in the forest and has been trying to find a way to turn this knowledge to his profit.</p>",
+        "format": 1
+      },
+      "_id": "dJ8jXjFRy2WfNPVe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!wE8mC9mXUR4nbueT.dJ8jXjFRy2WfNPVe"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201780294,
+    "modifiedTime": 1659201780294,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "wE8mC9mXUR4nbueT",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!wE8mC9mXUR4nbueT"
+}
